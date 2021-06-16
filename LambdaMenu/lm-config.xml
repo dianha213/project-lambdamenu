@@ -8,7 +8,7 @@
     -->
 
 			<!--Menu Controls-->   
-    <key function="toggle_main_menu" value="VK_F1"/> 
+    <key function="toggle_main_menu" value="VK_KEY_I"/> 
     <key function="menu_up" value="VK_NUMPAD8"/> 
     <key function="menu_down" value="VK_NUMPAD2"/> 
     <key function="menu_left" value="VK_NUMPAD4"/> 
